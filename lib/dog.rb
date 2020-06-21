@@ -22,5 +22,3 @@ def breed
 end
 
 end
-
-end
