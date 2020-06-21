@@ -20,7 +20,7 @@ end
 def breed
   return @breed
 end
-  
+
 end
 
 end
